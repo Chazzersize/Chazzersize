@@ -1,9 +1,20 @@
-# Chazz is new at this.
-I'm not a programmer.
-## Markdown
+# Chazz @ Work = John
+I'm not a programmer. 
 I don't even know markdown that well.
 But I'm learning.
-## PaaS
+### PaaS
 I am, however, learning to build a business around platform sales for SMBs to go serverless. 
-## Visual Studio
-So now I have Visual Studio and can make changes on my desktop. Watch out, I might get good at this. 
+## Who do I help?
+### CTOs
+Any business
+## My Field of Work: 
+
+## Industries I’ve Served: 
+
+## How you can help me:
+
+## My style:
+
+## Music around the office:
+# 
+# Me @ Home
