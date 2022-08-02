@@ -9,5 +9,5 @@ I am, however, learning to build a business around platform sales for SMBs to go
 So now I have Visual Studio and can make changes on my desktop. Watch out, I might get good at this. 
 ## GitHub Desktop
 Then I loaded GitHub Desktop and now I can commit to push things.
-###Commitment Issues
+### Commitment Issues
 Do dadjokes translate to gitjokes?
